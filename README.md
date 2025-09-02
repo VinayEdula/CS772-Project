@@ -1,7 +1,7 @@
 # Learning What Matters: Prioritized Data Selection for Improving Model Generalization
 
 ## Description
-This project enhances the RHO-LOSS framework for prioritized data selection in deep learning. The goal is to improve model generalization and training efficiency by dynamically selecting training samples that are most informative, diverse, and uncertain.
+This project enhances the RHO-LOSS framework(https://arxiv.org/abs/2206.07137) for prioritized data selection in deep learning. The goal is to improve model generalization and training efficiency by dynamically selecting training samples that are most informative, diverse, and uncertain.
 
 ## Key Features
 - **DivBS + RHO-LOSS**: Integrates gradient-based diversity to reduce redundant samples, reaching 80% CIFAR-10 accuracy by epoch 36.
